@@ -74,6 +74,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60"  alt="googlecloud logo" /> 
 </div>
 
+<br />
+
 <!-- Social Links -->
 <div align="center"> 
   <a href="https://www.linkedin.com/in/anthony-tagorda/" target="_blank"> 
@@ -88,13 +90,4 @@
     <a href="https://dev.to/anthony_t" target="_blank"> 
       <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" /> 
     </a>
-  </div>
-
-<br />
-
-<!-- Pacman Commits -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anthonytagorda/anthonytagorda/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anthonytagorda/anthonytagorda/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anthonytagorda/anthonytagorda/output/pacman-contribution-graph.svg">
-</picture>
+</div>
